@@ -1,0 +1,5 @@
+[requires]
+paho-cpp/1.0.1@conan/stable
+
+[generators]
+cmake_paths

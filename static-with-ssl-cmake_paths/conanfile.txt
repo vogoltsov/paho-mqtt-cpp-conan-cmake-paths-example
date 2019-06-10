@@ -1,0 +1,8 @@
+[requires]
+paho-cpp/1.0.1@conan/stable
+
+[options]
+paho-cpp:SSL=True
+
+[generators]
+cmake_paths
